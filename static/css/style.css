@@ -1,0 +1,42 @@
+.content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+.content p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    margin-top: 1%;
+    
+}
+.certificados{
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    width: 80%;
+    margin-left: 10%;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+}
+.certificados img{
+    border-radius: 5px;
+}
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+.contato{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: 30% 30% 30% ;
+    width: 80%;
+    margin-left: 10%;
+    column-gap: 30px;
+    row-gap: 10px;
+}
+.contato .forma a:hover {
+    color: rgb(93, 92, 92);
+    
+}
+
