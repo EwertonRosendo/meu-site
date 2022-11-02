@@ -39,4 +39,15 @@ body{
     color: rgb(93, 92, 92);
     
 }
+.certificados-importantes{
+    margin-left: 7%;
+    margin-top: 3%;
+    
+}
+.certificados-importantes h2{
+    width: 3px;
+}
 
+.certificados-importantes .certificados{
+    margin-left: 3%;
+}
