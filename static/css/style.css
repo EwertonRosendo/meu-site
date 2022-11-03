@@ -53,10 +53,10 @@ body{
 }
 @media only screen and (max-width: 600px) {
     .certificados {
-        grid-template-columns: 70%;
+        grid-template-columns: 95%;
     }
     .contato{
-        grid-template-columns: 80% ;
+        grid-template-columns: 98% ;
     }
     .contato .forma{
         margin-bottom: 9%;
