@@ -51,3 +51,14 @@ body{
 .certificados-importantes .certificados{
     margin-left: 3%;
 }
+@media only screen and (max-width: 600px) {
+    .certificados {
+        grid-template-columns: 70%;
+    }
+    .contato{
+        grid-template-columns: 80% ;
+    }
+    .contato .forma{
+        margin-bottom: 9%;
+    }
+}
